@@ -1,6 +1,6 @@
 {
-    "name": "lovelace-media-art",
+    "name": "lovelace-media-art-background",
     "content_in_root": false,
     "render_readme": true,
-    "filename": "lovelace-media-art.js"
+    "filename": "media-art-background.js"
 }
